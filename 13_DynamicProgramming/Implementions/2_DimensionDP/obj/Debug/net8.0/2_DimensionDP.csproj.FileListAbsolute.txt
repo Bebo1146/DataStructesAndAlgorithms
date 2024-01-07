@@ -1,0 +1,14 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\bin\Debug\net8.0\2_DimensionDP.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\bin\Debug\net8.0\2_DimensionDP.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\bin\Debug\net8.0\2_DimensionDP.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\bin\Debug\net8.0\2_DimensionDP.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\bin\Debug\net8.0\2_DimensionDP.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\obj\Debug\net8.0\2_DimensionDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\obj\Debug\net8.0\2_DimensionDP.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\obj\Debug\net8.0\2_DimensionDP.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\obj\Debug\net8.0\2_DimensionDP.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\obj\Debug\net8.0\2_DimensionDP.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\obj\Debug\net8.0\refint\2_DimensionDP.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\obj\Debug\net8.0\2_DimensionDP.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\obj\Debug\net8.0\2_DimensionDP.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\13_DynamicProgramming\Implementions\2_DimensionDP\obj\Debug\net8.0\ref\2_DimensionDP.dll

@@ -1,0 +1,14 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\obj\Debug\net8.0\1_InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\obj\Debug\net8.0\1_InsertionSort.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\obj\Debug\net8.0\1_InsertionSort.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\obj\Debug\net8.0\1_InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\bin\Debug\net8.0\1_InsertionSort.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\bin\Debug\net8.0\1_InsertionSort.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\bin\Debug\net8.0\1_InsertionSort.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\bin\Debug\net8.0\1_InsertionSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\bin\Debug\net8.0\1_InsertionSort.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\obj\Debug\net8.0\1_InsertionSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\obj\Debug\net8.0\refint\1_InsertionSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\obj\Debug\net8.0\1_InsertionSort.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\obj\Debug\net8.0\1_InsertionSort.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\SortingImplemtions\obj\Debug\net8.0\ref\1_InsertionSort.dll

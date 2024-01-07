@@ -1,0 +1,14 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\bin\Debug\net8.0\4_BucketSort.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\bin\Debug\net8.0\4_BucketSort.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\bin\Debug\net8.0\4_BucketSort.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\bin\Debug\net8.0\4_BucketSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\bin\Debug\net8.0\4_BucketSort.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\obj\Debug\net8.0\4_BucketSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\obj\Debug\net8.0\4_BucketSort.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\obj\Debug\net8.0\4_BucketSort.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\obj\Debug\net8.0\4_BucketSort.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\obj\Debug\net8.0\4_BucketSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\obj\Debug\net8.0\refint\4_BucketSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\obj\Debug\net8.0\4_BucketSort.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\obj\Debug\net8.0\4_BucketSort.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\4_BucketSort\obj\Debug\net8.0\ref\4_BucketSort.dll

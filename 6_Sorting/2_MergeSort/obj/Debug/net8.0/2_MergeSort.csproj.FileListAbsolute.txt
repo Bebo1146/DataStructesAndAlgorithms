@@ -1,0 +1,14 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\bin\Debug\net8.0\2_MergeSort.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\bin\Debug\net8.0\2_MergeSort.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\bin\Debug\net8.0\2_MergeSort.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\bin\Debug\net8.0\2_MergeSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\bin\Debug\net8.0\2_MergeSort.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\obj\Debug\net8.0\2_MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\obj\Debug\net8.0\2_MergeSort.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\obj\Debug\net8.0\2_MergeSort.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\obj\Debug\net8.0\2_MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\obj\Debug\net8.0\2_MergeSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\obj\Debug\net8.0\refint\2_MergeSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\obj\Debug\net8.0\2_MergeSort.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\obj\Debug\net8.0\2_MergeSort.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\2_MergeSort\obj\Debug\net8.0\ref\2_MergeSort.dll

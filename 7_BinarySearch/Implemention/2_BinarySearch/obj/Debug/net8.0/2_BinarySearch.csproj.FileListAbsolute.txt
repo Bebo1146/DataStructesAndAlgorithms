@@ -1,0 +1,14 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\bin\Debug\net8.0\2_BinarySearch.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\bin\Debug\net8.0\2_BinarySearch.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\bin\Debug\net8.0\2_BinarySearch.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\bin\Debug\net8.0\2_BinarySearch.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\bin\Debug\net8.0\2_BinarySearch.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\obj\Debug\net8.0\2_BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\obj\Debug\net8.0\2_BinarySearch.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\obj\Debug\net8.0\2_BinarySearch.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\obj\Debug\net8.0\2_BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\obj\Debug\net8.0\2_BinarySearch.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\obj\Debug\net8.0\refint\2_BinarySearch.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\obj\Debug\net8.0\2_BinarySearch.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\obj\Debug\net8.0\2_BinarySearch.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\2_BinarySearch\obj\Debug\net8.0\ref\2_BinarySearch.dll

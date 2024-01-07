@@ -1,0 +1,14 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\bin\Debug\net8.0\1_ArrayBinarySeach.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\bin\Debug\net8.0\1_ArrayBinarySeach.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\bin\Debug\net8.0\1_ArrayBinarySeach.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\bin\Debug\net8.0\1_ArrayBinarySeach.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\bin\Debug\net8.0\1_ArrayBinarySeach.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\obj\Debug\net8.0\1_ArrayBinarySeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\obj\Debug\net8.0\1_ArrayBinarySeach.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\obj\Debug\net8.0\1_ArrayBinarySeach.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\obj\Debug\net8.0\1_ArrayBinarySeach.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\obj\Debug\net8.0\1_ArrayBinarySeach.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\obj\Debug\net8.0\refint\1_ArrayBinarySeach.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\obj\Debug\net8.0\1_ArrayBinarySeach.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\obj\Debug\net8.0\1_ArrayBinarySeach.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\7_BinarySearch\Implemention\BinarySeach\obj\Debug\net8.0\ref\1_ArrayBinarySeach.dll

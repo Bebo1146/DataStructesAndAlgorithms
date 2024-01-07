@@ -1,0 +1,14 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\bin\Debug\net8.0\3_QuickSort.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\bin\Debug\net8.0\3_QuickSort.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\bin\Debug\net8.0\3_QuickSort.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\bin\Debug\net8.0\3_QuickSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\bin\Debug\net8.0\3_QuickSort.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\obj\Debug\net8.0\3_QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\obj\Debug\net8.0\3_QuickSort.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\obj\Debug\net8.0\3_QuickSort.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\obj\Debug\net8.0\3_QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\obj\Debug\net8.0\3_QuickSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\obj\Debug\net8.0\refint\3_QuickSort.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\obj\Debug\net8.0\3_QuickSort.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\obj\Debug\net8.0\3_QuickSort.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\dataStructesAndAlgorythms\6_Sorting\3_QuickSort\obj\Debug\net8.0\ref\3_QuickSort.dll
