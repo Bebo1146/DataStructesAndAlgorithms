@@ -1,0 +1,15 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\bin\Debug\net8.0\4_CalPoints.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\bin\Debug\net8.0\4_CalPoints.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\bin\Debug\net8.0\4_CalPoints.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\bin\Debug\net8.0\4_CalPoints.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\bin\Debug\net8.0\4_CalPoints.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\obj\Debug\net8.0\4_CalPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\obj\Debug\net8.0\4_CalPoints.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\obj\Debug\net8.0\4_CalPoints.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\obj\Debug\net8.0\4_CalPoints.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\obj\Debug\net8.0\4_CalPoints.sourcelink.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\obj\Debug\net8.0\4_CalPoints.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\obj\Debug\net8.0\refint\4_CalPoints.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\obj\Debug\net8.0\4_CalPoints.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\obj\Debug\net8.0\4_CalPoints.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\4_CalPoints\obj\Debug\net8.0\ref\4_CalPoints.dll

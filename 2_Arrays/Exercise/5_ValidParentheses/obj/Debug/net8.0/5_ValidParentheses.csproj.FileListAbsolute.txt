@@ -1,0 +1,15 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\bin\Debug\net8.0\5_ValidParentheses.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\bin\Debug\net8.0\5_ValidParentheses.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\bin\Debug\net8.0\5_ValidParentheses.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\bin\Debug\net8.0\5_ValidParentheses.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\bin\Debug\net8.0\5_ValidParentheses.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\obj\Debug\net8.0\5_ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\obj\Debug\net8.0\5_ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\obj\Debug\net8.0\5_ValidParentheses.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\obj\Debug\net8.0\5_ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\obj\Debug\net8.0\5_ValidParentheses.sourcelink.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\obj\Debug\net8.0\5_ValidParentheses.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\obj\Debug\net8.0\refint\5_ValidParentheses.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\obj\Debug\net8.0\5_ValidParentheses.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\obj\Debug\net8.0\5_ValidParentheses.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\5_ValidParentheses\obj\Debug\net8.0\ref\5_ValidParentheses.dll

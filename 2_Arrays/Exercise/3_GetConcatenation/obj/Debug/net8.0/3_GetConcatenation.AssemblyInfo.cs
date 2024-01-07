@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3_GetConcatenation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bb266e9995d18a028e6cefbd90b5a278d2fe22f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("3_GetConcatenation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3_GetConcatenation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

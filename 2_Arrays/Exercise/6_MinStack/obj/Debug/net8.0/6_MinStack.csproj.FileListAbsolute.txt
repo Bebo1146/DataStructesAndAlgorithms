@@ -1,0 +1,15 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\bin\Debug\net8.0\6_MinStack.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\bin\Debug\net8.0\6_MinStack.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\bin\Debug\net8.0\6_MinStack.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\bin\Debug\net8.0\6_MinStack.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\bin\Debug\net8.0\6_MinStack.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\obj\Debug\net8.0\6_MinStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\obj\Debug\net8.0\6_MinStack.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\obj\Debug\net8.0\6_MinStack.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\obj\Debug\net8.0\6_MinStack.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\obj\Debug\net8.0\6_MinStack.sourcelink.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\obj\Debug\net8.0\6_MinStack.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\obj\Debug\net8.0\refint\6_MinStack.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\obj\Debug\net8.0\6_MinStack.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\obj\Debug\net8.0\6_MinStack.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\6_MinStack\obj\Debug\net8.0\ref\6_MinStack.dll
