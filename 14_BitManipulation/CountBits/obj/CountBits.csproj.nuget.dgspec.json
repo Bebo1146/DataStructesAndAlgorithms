@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\z004rd5d.AD005\\Desktop\\Tanult\\dataStructesAndAlgorythms\\14_BitManipulation\\CountBits\\CountBits.csproj": {}
+    "C:\\Users\\z004rd5d.AD005\\Desktop\\Tanult\\DataStructuresAndAlgorithms\\14_BitManipulation\\CountBits\\CountBits.csproj": {}
   },
   "projects": {
-    "C:\\Users\\z004rd5d.AD005\\Desktop\\Tanult\\dataStructesAndAlgorythms\\14_BitManipulation\\CountBits\\CountBits.csproj": {
+    "C:\\Users\\z004rd5d.AD005\\Desktop\\Tanult\\DataStructuresAndAlgorithms\\14_BitManipulation\\CountBits\\CountBits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\z004rd5d.AD005\\Desktop\\Tanult\\dataStructesAndAlgorythms\\14_BitManipulation\\CountBits\\CountBits.csproj",
+        "projectUniqueName": "C:\\Users\\z004rd5d.AD005\\Desktop\\Tanult\\DataStructuresAndAlgorithms\\14_BitManipulation\\CountBits\\CountBits.csproj",
         "projectName": "CountBits",
-        "projectPath": "C:\\Users\\z004rd5d.AD005\\Desktop\\Tanult\\dataStructesAndAlgorythms\\14_BitManipulation\\CountBits\\CountBits.csproj",
+        "projectPath": "C:\\Users\\z004rd5d.AD005\\Desktop\\Tanult\\DataStructuresAndAlgorithms\\14_BitManipulation\\CountBits\\CountBits.csproj",
         "packagesPath": "C:\\Users\\z004rd5d.AD005\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\z004rd5d.AD005\\Desktop\\Tanult\\dataStructesAndAlgorythms\\14_BitManipulation\\CountBits\\obj\\",
+        "outputPath": "C:\\Users\\z004rd5d.AD005\\Desktop\\Tanult\\DataStructuresAndAlgorithms\\14_BitManipulation\\CountBits\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

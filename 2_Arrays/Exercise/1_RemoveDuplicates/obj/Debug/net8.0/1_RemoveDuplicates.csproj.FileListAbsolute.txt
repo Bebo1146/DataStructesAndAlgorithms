@@ -1,0 +1,15 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\bin\Debug\net8.0\1_RemoveDuplicates.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\bin\Debug\net8.0\1_RemoveDuplicates.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\bin\Debug\net8.0\1_RemoveDuplicates.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\bin\Debug\net8.0\1_RemoveDuplicates.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\bin\Debug\net8.0\1_RemoveDuplicates.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\obj\Debug\net8.0\1_RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\obj\Debug\net8.0\1_RemoveDuplicates.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\obj\Debug\net8.0\1_RemoveDuplicates.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\obj\Debug\net8.0\1_RemoveDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\obj\Debug\net8.0\1_RemoveDuplicates.sourcelink.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\obj\Debug\net8.0\1_RemoveDuplicates.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\obj\Debug\net8.0\refint\1_RemoveDuplicates.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\obj\Debug\net8.0\1_RemoveDuplicates.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\obj\Debug\net8.0\1_RemoveDuplicates.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\obj\Debug\net8.0\ref\1_RemoveDuplicates.dll

@@ -1,0 +1,15 @@
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\bin\Debug\net8.0\3_GetConcatenation.exe
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\bin\Debug\net8.0\3_GetConcatenation.deps.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\bin\Debug\net8.0\3_GetConcatenation.runtimeconfig.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\bin\Debug\net8.0\3_GetConcatenation.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\bin\Debug\net8.0\3_GetConcatenation.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\obj\Debug\net8.0\3_GetConcatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\obj\Debug\net8.0\3_GetConcatenation.AssemblyInfoInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\obj\Debug\net8.0\3_GetConcatenation.AssemblyInfo.cs
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\obj\Debug\net8.0\3_GetConcatenation.csproj.CoreCompileInputs.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\obj\Debug\net8.0\3_GetConcatenation.sourcelink.json
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\obj\Debug\net8.0\3_GetConcatenation.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\obj\Debug\net8.0\refint\3_GetConcatenation.dll
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\obj\Debug\net8.0\3_GetConcatenation.pdb
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\obj\Debug\net8.0\3_GetConcatenation.genruntimeconfig.cache
+C:\Users\z004rd5d.AD005\Desktop\Tanult\DataStructuresAndAlgorithms\2_Arrays\Exercise\3_GetConcatenation\obj\Debug\net8.0\ref\3_GetConcatenation.dll
